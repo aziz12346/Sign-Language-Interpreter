@@ -2,11 +2,11 @@ import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
-import tensorflow as tf  # Deep learning framework
-from tensorflow import keras  # Keras API for model building
-from tensorflow.keras import layers  # Layers for the neural network
-from tensorflow.keras.callbacks import EarlyStopping # Stop training 
-import matplotlib.pyplot as plt  # For visualizing training progress
+import tensorflow as tf
+from tensorflow import keras
+from tensorflow.keras import layers
+from tensorflow.keras.callbacks import EarlyStopping
+import matplotlib.pyplot as plt
 
 
 
