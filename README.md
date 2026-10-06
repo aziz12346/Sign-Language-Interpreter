@@ -7,3 +7,5 @@ sign language hand signs. It will also include a user-friendly Python Graphical 
 improving the usability accessibility of the system. The Sign Language Interpreter System 
 would be most beneficial to the hearing impaired who are reliant on communication assisting 
 tools in their everyday life. 
+<img width="1776" height="804" alt="image" src="https://github.com/user-attachments/assets/2a3ec3cb-9107-4dc3-b948-6344935ab4d8" />
+
